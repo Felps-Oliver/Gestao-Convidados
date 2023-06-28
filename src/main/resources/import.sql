@@ -1,5 +1,3 @@
--- Comentado pois, se estes comandos rodarem, ocorre erro ao tentar a inclusão (duplicidade no ID), mesmo utilizando
--- GeneratedValue
---insert into convidado (id, nome, quantidade_acompanhantes) values (1, 'Pedro', 2);
---insert into convidado (id, nome, quantidade_acompanhantes) values (2, 'Maria', 3);
---insert into convidado (id, nome, quantidade_acompanhantes) values (3, 'Ricardo', 1);
+insert into convidado (id, nome, quantidade_acompanhantes) values (1, 'Pedro', 2);
+insert into convidado (id, nome, quantidade_acompanhantes) values (2, 'Maria', 3);
+insert into convidado (id, nome, quantidade_acompanhantes) values (3, 'Ricardo', 1);
